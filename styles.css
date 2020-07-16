@@ -1,0 +1,7 @@
+* {
+    margin: 0;
+}
+
+html, body, .webgl {
+    height: 100%;
+}
